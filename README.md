@@ -1,3 +1,8 @@
+UDEMY - The Ultimate React Course 2024: React, Next.js, Redux & More
+Lesson 16, Discussing what create-react-app installs, thats all.
+
+Installed setup with: `npx create-react-app@5 pizza-menu ` to lock it to react-app5, according to the project-tutorial.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
